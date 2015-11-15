@@ -1,3 +1,6 @@
+<?php
+        include 'loginsystem/session.php';
+?>
 <?php 
 	require 'database.php';
 	$id = null;
