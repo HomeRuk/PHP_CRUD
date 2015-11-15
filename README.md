@@ -1,19 +1,21 @@
 # Project PHP_CRUD
 
-1.loginsystem
++ 1.loginsystem
 
-2.Create customers
++ 2.Create customers
 
-3.Read customers
++ 3.Read customers
 
-4.Update customers
++ 4.Update customers
 
-5.Delete customers 
++ 5.Delete customers 
 
-Account for test 
+# Account for test 
 
 username : admin
 
 password : 1234
 
-Demo link http://sergo.azurewebsites.net/
+#Demo link 
+
+http://sergo.azurewebsites.net/
