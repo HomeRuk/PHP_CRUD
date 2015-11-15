@@ -1,7 +1,7 @@
 <?php
         session_start();
         if (!isset($_SESSION['login_id'])) {
-            header("Location: index.php");
+            header("Location: loginsystem/index.php");
         }
         require 'connectdb.php';
         $session_login_id = $_SESSION['login_id'];
