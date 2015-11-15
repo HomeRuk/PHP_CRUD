@@ -42,7 +42,7 @@
                             <button type="submit" class="btn btn-primary" value="Register"><span class="glyphicon glyphicon-lock"></span> Register
                             </button>      
                             <p align="center"><br/><br/>
-                                    <a href="index.php" class="btn btn-info" ><span class="glyphicon glyphicon-arrow-left">
+                                    <a href="../index.php" class="btn btn-info" ><span class="glyphicon glyphicon-arrow-left">
                             </span> หน้าหลัก</a>
                             </p>
                         </form>
