@@ -10,4 +10,11 @@
 
 5.Dekete customers 
 
-http://sergo.azurewebsites.net/
+Account for test 
+
+username : admin
+
+password : 1234
+
+
+Demo link http://sergo.azurewebsites.net/
