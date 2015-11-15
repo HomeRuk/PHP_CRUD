@@ -3,6 +3,9 @@
         if (!isset($_SESSION['login_id'])) {
             header("Location: loginsystem/index.php");
         }
+        if (isset($_SESSION['login_id'])) {
+            header("Location: ./index.php");
+        }
         require 'connectdb.php';
         $session_login_id = $_SESSION['login_id'];
         
