@@ -1,15 +1,20 @@
+<?php
+        include 'session.php';
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th-TH"  prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="utf-8">
+    <title>Database customers</title>
     <link   href="css/bootstrap.min.css" rel="stylesheet">
     <script src="js/bootstrap.min.js"></script>
+           
 </head>
 
 <body>
     <div class="container">
     		<div class="row">
-    			<h3>PHP CRUD Grid</h3>
+    			<h3>Project CRUD Database customers </h3>
     		</div>
 			<div class="row">
 				<p>
@@ -50,5 +55,8 @@
 	            </table>
     	</div>
     </div> <!-- /container -->
+    <p align="center">
+    <a href="loginsystem/logout.php" class="btn btn-danger" ><span class="glyphicon glyphicon-arrow-left"></span> Logout</a>
+    </p>
   </body>
 </html>
