@@ -4,7 +4,7 @@
     $login_username = mysqli_real_escape_string($dbcon,$_POST['username']);
     $login_password = mysqli_real_escape_string($dbcon,$_POST['password']);
     
-    $salt = 'tikde78uj4ujuhlaoikiksakeidke';
+    $salt = 'tikde78uj4ujuhlaoikiksakeidkd';
     $hash_login_password = hash_hmac('sha256', $login_password, $salt);
     
     $sql = "SELECT * FROM tb_login WHERE login_username=? AND login_password=?";

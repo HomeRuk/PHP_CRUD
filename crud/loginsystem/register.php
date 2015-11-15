@@ -5,7 +5,7 @@
         $login_password = $_POST['password'];
         
         //เข้ารหัส รหัสผ่าน
-        $salt = 'tikde78uj4ujuhlaoikiksakeidke';
+        $salt = 'tikde78uj4ujuhlaoikiksakeidkd';
         $hash_login_password = hash_hmac('sha256', $login_password, $salt);
         
         $query = "INSERT INTO tb_login (login_username,login_password) VALUES ('$login_username','$hash_login_password')";
