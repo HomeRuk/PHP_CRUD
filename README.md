@@ -8,13 +8,12 @@
 
 4.Update customers
 
-5.Dekete customers 
+5.Delete customers 
 
 Account for test 
 
 username : admin
 
 password : 1234
-
 
 Demo link http://sergo.azurewebsites.net/
