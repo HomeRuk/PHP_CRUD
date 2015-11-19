@@ -20,7 +20,8 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                             <div class="page-header">
-                            <h3>Login Admin write by 5605104046 Wisit Lertsakwimarn</h3>
+                            <h3>Login Admin</h3> <br />
+                            <h5>write by 5605104046 Wisit Lertsakwimarn</h5>
                         </div>
                         <form role="form" action="login.php" method="POST">
                             <div class="form-group">
